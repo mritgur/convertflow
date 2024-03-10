@@ -21,7 +21,8 @@ h1,h2,h3 {
 }
 .container{
     max-width: 1140px;
-    padding: 1rem 15px;
+    /* padding: 1rem 15px; */
+    padding: 0 15px;
     margin: 0 auto;
 }
 .prof-blue-section{
@@ -55,8 +56,9 @@ h1,h2,h3 {
     padding: 95px 0  165px;
     max-width: 710px ;
     width: 100%;
-    
-
+}
+.prof-start-banner-new{
+    padding: 100px 0  100px;  
 }
 .prof-title {
     font-size: 36px;
